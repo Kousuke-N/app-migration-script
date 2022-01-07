@@ -4,4 +4,5 @@ pc環境を移行するときに，brewにあるアプリを一発でインス�
 ## 使い方
 
 1. brewをinstall
-2. brew bundle
+1. brew bundle
+1. source migrate.sh
